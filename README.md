@@ -28,7 +28,7 @@ This AI assistant helps users improve their well-being by generating:
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/AI-Health-Supervisor-Agent.git
+git clone https://github.com/Mercytopsy/AI-Health-Supervisor-Agent.git
 cd AI-Health-Supervisor-Agent
 ```
 #### 2. Install dependencies
