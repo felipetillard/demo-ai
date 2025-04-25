@@ -8,7 +8,7 @@ This AI assistant helps users improve their well-being by generating:
 - 🧘 Mindfulness and stress-reducing tips  
 
 
-![Alt text](Uploading image.png…)
+![My Image](https://github.com/Mercytopsy/AI-Health-Supervisor-Agent/blob/main/Architectural_Diagram.png)
 
 
 
