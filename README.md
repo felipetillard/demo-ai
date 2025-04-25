@@ -8,7 +8,7 @@ This AI assistant helps users improve their well-being by generating:
 - 🧘 Mindfulness and stress-reducing tips  
 
 
-![Uploading image.png…]()
+![Alt text](Uploading image.png…)
 
 
 
