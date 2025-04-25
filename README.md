@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```bash
 ollama pull qwen2.5:14b
 ```
-#### 4. Add Fitness & Dietitian API Key
+#### 4. Add [Fitness] https://api-ninjas.com/profile & [Dietitian] https://spoonacular.com/food-api/console#Profile  API Key
 ```bash
 Create a .env file:
 ```
