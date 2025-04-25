@@ -7,7 +7,8 @@ This AI assistant helps users improve their well-being by generating:
 - 🥗 Healthy meal suggestions  
 - 🧘 Mindfulness and stress-reducing tips  
 
-All through natural, conversational input.
+
+![Uploading image.png…]()
 
 
 
