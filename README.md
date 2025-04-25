@@ -8,7 +8,7 @@ This AI assistant helps users improve their well-being by generating:
 - 🧘 Mindfulness and stress-reducing tips  
 
 
-![Alt text](Uploading image.png…)
+![My Image](https://github.com/Mercytopsy/AI-Health-Supervisor-Agent/blob/main/Architectural_Diagram.png)
 
 
 
@@ -17,11 +17,11 @@ This AI assistant helps users improve their well-being by generating:
 
 
 ### 🛠 Tech Stack
-LangGraph – for building the multi-agent state machine
-LangChain – for Tool orchestration
-Qwen2.5:14b – for agent reasoning and responses
-Streamlit – for the user-facing frontend
-Python – main programming language
+- LangGraph – for building the multi-agent state machine
+- LangChain – for Tool orchestration
+- Qwen2.5:14b – for agent reasoning and responses
+- Streamlit – for the user-facing frontend
+- Python – main programming language
 
 
 ### 📦 Installation & Setup
