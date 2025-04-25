@@ -35,10 +35,15 @@ cd AI-Health-Supervisor-Agent
 pip install -r requirements.txt
 ```
 #### 3. Set up Qwen 
+```bash
 ollama pull qwen2.5:14b
-
+```
 #### 4. Add Fitness & Dietitian API Key
+```bash
 Create a .env file:
+```
 
 #### 5. Run the App
-stramlit run main.py
+```bash
+streamlit run main.py
+```
