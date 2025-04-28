@@ -6,7 +6,6 @@ import requests
 import random
 import os
 
-load_dotenv()
 
 fitness_api_key = os.getenv("EXERCISE_API_KEY")
 diet_api_key = os.getenv("DIET_API_KEY")
