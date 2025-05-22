@@ -6,3 +6,4 @@ typing-extensions
 ipython
 requests
 langchain-openai
+dotenv
