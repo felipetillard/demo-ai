@@ -48,3 +48,4 @@ Create a .env file:
 ```bash
 streamlit run main.py
 ```
+# demo-ai
