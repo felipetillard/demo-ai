@@ -6,12 +6,10 @@ from langchain.prompts import PromptTemplate
 from typing import Annotated, Literal
 from langchain_openai import ChatOpenAI
 from dotenv import load_dotenv
-
 from typing_extensions import TypedDict
 from langgraph.types import Command
-
 from tools import (fitness_data_tool, diet_tool, get_user_uploaded_meals, get_user_nutrition_plan, get_current_time, get_user_profile, get_user_wearable_data, get_user_workouts)
-import streamlit as st
+
 
 # Import prompts from prompts.py
 from prompts import fitness_agent_prompt, dietitian_system_prompt, system_prompt, fallback_agent_prompt
